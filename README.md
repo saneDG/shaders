@@ -2,6 +2,8 @@
 random shaders intented to use with obs-shaderfilter https://github.com/exeldro/obs-shaderfilter/
 
 ## ascii.shader
+https://github.com/user-attachments/assets/ca84e862-5aee-4f7b-81d1-fac0fdc18ce8
+
 <img width="1728" alt="image" src="https://github.com/user-attachments/assets/02cf1d93-787b-4799-bb10-28fa442fdb00" />
 
 ## ascii.shader + chromatic_aberration.shader
